@@ -13,7 +13,7 @@ from selenium.webdriver.firefox.firefox_profile import FirefoxProfile
 from selenium.webdriver.firefox.options import Options as FirefoxOptions
 # главное капчу в начале быстро натыкать и будет нормально
 class Parser:
-    # Ещё пришлось думать как заставить это работать без мучений с календарем
+    # Ещё пришлось думать как заставить это работать без мучений с календарём
     ORIGIN = "MSQ"
     DEST = "SYX"
     PASSENGERS = "1"
@@ -32,8 +32,6 @@ class Parser:
         self.accept_cookies()
     # Прокся
     def proxy(self):
-        """Берёт случайный рабочий прокси из proxy_list.txt (создаётся
-        proxy_checker.py) и собирает FirefoxOptions с ним."""
         with open(r"C:\Users\JustAtsu\Desktop\lab\aviasalsa\proxy_list.txt", 'r') as proxlist:
             proxy_list = proxlist.read()
         proxy_list1 = proxy_list.split('\n')
