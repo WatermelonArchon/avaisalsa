@@ -1,0 +1,202 @@
+﻿Функция,Время запуска,Результат
+accept_cookies,2026-10-26 23:05:41,выполнено
+go_to_search_page,2026-10-26 23:05:47,выполнено
+tickets_available,2026-10-26 23:05:58,False
+go_to_search_page,2026-10-26 23:06:19,выполнено
+tickets_available,2026-10-26 23:06:28,False
+go_to_search_page,2026-10-26 23:06:49,выполнено
+tickets_available,2026-10-26 23:06:57,True
+parse_page,2026-10-26 23:06:57,1 шт.
+go_to_search_page,2026-10-26 23:07:00,выполнено
+tickets_available,2026-10-26 23:07:10,True
+parse_page,2026-10-26 23:07:10,3 шт.
+go_to_search_page,2026-10-26 23:07:14,выполнено
+tickets_available,2026-10-26 23:07:23,True
+parse_page,2026-10-26 23:07:28,5 шт.
+go_to_search_page,2026-10-26 23:07:31,выполнено
+tickets_available,2026-10-26 23:07:40,True
+parse_page,2026-10-26 23:07:40,6 шт.
+go_to_search_page,2026-10-26 23:07:43,выполнено
+tickets_available,2026-10-26 23:07:52,True
+parse_page,2026-10-26 23:07:52,8 шт.
+go_to_search_page,2026-10-26 23:07:57,выполнено
+tickets_available,2026-10-26 23:08:06,True
+parse_page,2026-10-26 23:08:07,9 шт.
+go_to_search_page,2026-10-26 23:08:11,выполнено
+tickets_available,2026-10-26 23:08:20,True
+parse_page,2026-10-26 23:08:20,10 шт.
+go_to_search_page,2026-10-26 23:08:23,выполнено
+tickets_available,2026-10-26 23:08:33,True
+parse_page,2026-10-26 23:08:33,11 шт.
+go_to_search_page,2026-10-26 23:08:36,выполнено
+tickets_available,2026-10-26 23:08:45,True
+parse_page,2026-10-26 23:08:45,13 шт.
+go_to_search_page,2026-10-26 23:08:54,выполнено
+tickets_available,2026-10-26 23:09:04,True
+parse_page,2026-10-26 23:09:04,15 шт.
+go_to_search_page,2026-10-26 23:09:08,выполнено
+tickets_available,2026-10-26 23:09:23,True
+parse_page,2026-10-26 23:09:23,16 шт.
+go_to_search_page,2026-10-26 23:09:26,выполнено
+tickets_available,2026-10-26 23:09:35,True
+parse_page,2026-10-26 23:09:35,18 шт.
+go_to_search_page,2026-10-26 23:09:38,выполнено
+tickets_available,2026-10-26 23:09:48,True
+parse_page,2026-10-26 23:09:48,19 шт.
+go_to_search_page,2026-10-26 23:09:51,выполнено
+tickets_available,2026-10-26 23:10:00,True
+parse_page,2026-10-26 23:10:00,20 шт.
+go_to_search_page,2026-10-26 23:10:03,выполнено
+tickets_available,2026-10-26 23:10:15,True
+parse_page,2026-10-26 23:10:15,22 шт.
+go_to_search_page,2026-10-26 23:10:18,выполнено
+tickets_available,2026-10-26 23:10:27,True
+parse_page,2026-10-26 23:10:28,23 шт.
+go_to_search_page,2026-10-26 23:10:31,выполнено
+tickets_available,2026-10-26 23:10:39,True
+parse_page,2026-10-26 23:10:39,24 шт.
+go_to_search_page,2026-10-26 23:10:43,выполнено
+tickets_available,2026-10-26 23:10:52,True
+parse_page,2026-10-26 23:10:52,26 шт.
+go_to_search_page,2026-10-26 23:10:56,выполнено
+tickets_available,2026-10-26 23:11:08,True
+parse_page,2026-10-26 23:11:08,28 шт.
+go_to_search_page,2026-10-26 23:11:12,выполнено
+tickets_available,2026-10-26 23:11:22,True
+parse_page,2026-10-26 23:11:31,29 шт.
+go_to_search_page,2026-10-26 23:11:34,выполнено
+tickets_available,2026-10-26 23:11:44,True
+parse_page,2026-10-26 23:11:44,31 шт.
+go_to_search_page,2026-10-26 23:11:47,выполнено
+tickets_available,2026-10-26 23:11:56,True
+parse_page,2026-10-26 23:11:56,33 шт.
+go_to_search_page,2026-10-26 23:11:59,выполнено
+tickets_available,2026-10-26 23:12:08,True
+parse_page,2026-10-26 23:12:08,35 шт.
+go_to_search_page,2026-10-26 23:12:12,выполнено
+tickets_available,2026-10-26 23:12:20,True
+parse_page,2026-10-26 23:12:20,37 шт.
+go_to_search_page,2026-10-26 23:12:23,выполнено
+tickets_available,2026-10-26 23:12:31,True
+parse_page,2026-10-26 23:12:31,38 шт.
+go_to_search_page,2026-10-26 23:12:36,выполнено
+tickets_available,2026-10-26 23:12:45,True
+parse_page,2026-10-26 23:12:45,41 шт.
+go_to_search_page,2026-10-26 23:12:49,выполнено
+tickets_available,2026-10-26 23:12:58,True
+parse_page,2026-10-26 23:12:58,42 шт.
+go_to_search_page,2026-10-26 23:13:01,выполнено
+tickets_available,2026-10-26 23:13:10,True
+parse_page,2026-10-26 23:13:10,45 шт.
+go_to_search_page,2026-10-26 23:13:14,выполнено
+tickets_available,2026-10-26 23:13:22,True
+parse_page,2026-10-26 23:13:26,47 шт.
+go_to_search_page,2026-10-26 23:13:29,выполнено
+tickets_available,2026-10-26 23:13:38,True
+parse_page,2026-10-26 23:13:38,50 шт.
+go_to_search_page,2026-10-26 23:13:46,выполнено
+tickets_available,2026-10-26 23:13:55,True
+parse_page,2026-10-26 23:13:55,52 шт.
+go_to_search_page,2026-10-26 23:14:00,выполнено
+tickets_available,2026-10-26 23:14:10,True
+parse_page,2026-10-26 23:14:11,53 шт.
+go_to_search_page,2026-10-26 23:14:14,выполнено
+tickets_available,2026-10-26 23:14:23,True
+parse_page,2026-10-26 23:14:23,56 шт.
+go_to_search_page,2026-10-26 23:14:27,выполнено
+tickets_available,2026-10-26 23:14:36,True
+parse_page,2026-10-26 23:14:37,57 шт.
+go_to_search_page,2026-10-26 23:14:40,выполнено
+tickets_available,2026-10-26 23:14:48,True
+parse_page,2026-10-26 23:14:48,60 шт.
+go_to_search_page,2026-10-26 23:14:51,выполнено
+tickets_available,2026-10-26 23:15:00,True
+parse_page,2026-10-26 23:15:00,61 шт.
+go_to_search_page,2026-10-26 23:15:05,выполнено
+tickets_available,2026-10-26 23:15:14,True
+parse_page,2026-10-26 23:15:14,64 шт.
+go_to_search_page,2026-10-26 23:15:17,выполнено
+tickets_available,2026-10-26 23:15:27,True
+parse_page,2026-10-26 23:15:27,66 шт.
+go_to_search_page,2026-10-26 23:15:30,выполнено
+tickets_available,2026-10-26 23:15:39,True
+parse_page,2026-10-26 23:15:39,68 шт.
+go_to_search_page,2026-10-26 23:15:43,выполнено
+tickets_available,2026-10-26 23:15:57,True
+parse_page,2026-10-26 23:15:57,71 шт.
+go_to_search_page,2026-10-26 23:16:00,выполнено
+tickets_available,2026-10-26 23:16:09,True
+parse_page,2026-10-26 23:16:09,72 шт.
+go_to_search_page,2026-10-26 23:16:12,выполнено
+tickets_available,2026-10-26 23:16:21,True
+parse_page,2026-10-26 23:16:22,74 шт.
+go_to_search_page,2026-10-26 23:16:25,выполнено
+tickets_available,2026-10-26 23:16:34,True
+parse_page,2026-10-26 23:16:39,75 шт.
+go_to_search_page,2026-10-26 23:16:42,выполнено
+tickets_available,2026-10-26 23:16:50,True
+parse_page,2026-10-26 23:16:50,77 шт.
+go_to_search_page,2026-10-26 23:16:54,выполнено
+tickets_available,2026-10-26 23:17:06,True
+parse_page,2026-10-26 23:17:06,79 шт.
+go_to_search_page,2026-10-26 23:17:15,выполнено
+tickets_available,2026-10-26 23:17:25,True
+parse_page,2026-10-26 23:17:26,80 шт.
+go_to_search_page,2026-10-26 23:17:31,выполнено
+tickets_available,2026-10-26 23:17:39,True
+parse_page,2026-10-26 23:17:39,82 шт.
+go_to_search_page,2026-10-26 23:17:45,выполнено
+tickets_available,2026-10-26 23:17:53,True
+parse_page,2026-10-26 23:17:53,83 шт.
+go_to_search_page,2026-10-26 23:17:56,выполнено
+tickets_available,2026-10-26 23:18:04,True
+parse_page,2026-10-26 23:18:04,84 шт.
+go_to_search_page,2026-10-26 23:18:08,выполнено
+tickets_available,2026-10-26 23:18:16,True
+parse_page,2026-10-26 23:18:16,85 шт.
+go_to_search_page,2026-10-26 23:18:23,выполнено
+tickets_available,2026-10-26 23:18:32,True
+parse_page,2026-10-26 23:18:32,88 шт.
+go_to_search_page,2026-10-26 23:18:36,выполнено
+tickets_available,2026-10-26 23:18:44,True
+parse_page,2026-10-26 23:18:46,90 шт.
+go_to_search_page,2026-10-26 23:18:49,выполнено
+tickets_available,2026-10-26 23:18:58,True
+parse_page,2026-10-26 23:18:58,92 шт.
+go_to_search_page,2026-10-26 23:19:01,выполнено
+tickets_available,2026-10-26 23:19:10,True
+parse_page,2026-10-26 23:19:10,94 шт.
+go_to_search_page,2026-10-26 23:19:13,выполнено
+tickets_available,2026-10-26 23:19:22,True
+parse_page,2026-10-26 23:19:22,95 шт.
+go_to_search_page,2026-10-26 23:19:28,выполнено
+tickets_available,2026-10-26 23:19:38,True
+parse_page,2026-10-26 23:19:39,96 шт.
+go_to_search_page,2026-10-26 23:19:42,выполнено
+tickets_available,2026-10-26 23:19:51,True
+parse_page,2026-10-26 23:19:51,97 шт.
+go_to_search_page,2026-10-26 23:19:57,выполнено
+tickets_available,2026-10-26 23:20:07,True
+parse_page,2026-10-26 23:20:08,99 шт.
+go_to_search_page,2026-10-26 23:20:11,выполнено
+tickets_available,2026-10-26 23:20:19,True
+parse_page,2026-10-26 23:20:20,101 шт.
+go_to_search_page,2026-10-26 23:20:24,выполнено
+tickets_available,2026-10-26 23:20:32,True
+parse_page,2026-10-26 23:20:38,102 шт.
+go_to_search_page,2026-10-26 23:20:41,выполнено
+tickets_available,2026-10-26 23:20:51,True
+parse_page,2026-10-26 23:20:51,104 шт.
+go_to_search_page,2026-10-26 23:20:54,выполнено
+tickets_available,2026-10-26 23:21:05,True
+parse_page,2026-10-26 23:21:09,105 шт.
+go_to_search_page,2026-10-26 23:21:12,выполнено
+tickets_available,2026-10-26 23:21:21,True
+parse_page,2026-10-26 23:21:21,108 шт.
+go_to_search_page,2026-10-26 23:21:25,выполнено
+tickets_available,2026-10-26 23:21:34,True
+parse_page,2026-10-26 23:21:34,109 шт.
+go_to_search_page,2026-10-26 23:21:39,выполнено
+tickets_available,2026-10-26 23:21:49,True
+parse_page,2026-10-26 23:21:49,111 шт.
+run,2026-10-26 23:05:47,111 шт.
